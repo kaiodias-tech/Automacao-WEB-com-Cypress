@@ -1,0 +1,92 @@
+[
+  {
+    "keyword": "Funcionalidade",
+    "name": "Compras de produtos",
+    "line": 3,
+    "id": "compras-de-produtos",
+    "tags": [],
+    "uri": "Compras.feature",
+    "elements": [
+      {
+        "id": "compras-de-produtos;efetuar-a-compra-de-um-produto",
+        "keyword": "Scenario",
+        "line": 5,
+        "name": "Efetuar a compra de um produto",
+        "tags": [],
+        "type": "scenario",
+        "steps": [
+          {
+            "arguments": [],
+            "keyword": "Dado ",
+            "line": 6,
+            "name": "que acesso o site",
+            "result": {
+              "status": "passed",
+              "duration": 20609000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "E ",
+            "line": 7,
+            "name": "escolho um determinado produto",
+            "result": {
+              "status": "passed",
+              "duration": 461000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "E ",
+            "line": 8,
+            "name": "verifico se o produto está no carrinho de compras",
+            "result": {
+              "status": "passed",
+              "duration": 3948000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Quando ",
+            "line": 9,
+            "name": "sou direcionado para a tela de login",
+            "result": {
+              "status": "passed",
+              "duration": 1058000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "E ",
+            "line": 10,
+            "name": "sou autenticado",
+            "result": {
+              "status": "passed",
+              "duration": 1556000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Entao ",
+            "line": 11,
+            "name": "informo meus dados",
+            "result": {
+              "status": "passed",
+              "duration": 5837000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "E ",
+            "line": 12,
+            "name": "finalizo a compra com sucesso",
+            "result": {
+              "status": "passed",
+              "duration": 1946000000
+            }
+          }
+        ]
+      }
+    ]
+  }
+]
