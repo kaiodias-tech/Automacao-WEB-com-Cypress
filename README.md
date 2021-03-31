@@ -1,8 +1,5 @@
 ﻿# Automacao-WEB-com-Cypress.
 
-<h1>Automação Cypress</h1>
-
-
 <h2>Documentação do Projeto</h2>
 
 <h3>1 - Pré-requisitos do sistema</h3>
@@ -16,19 +13,23 @@
 <ul>
 <li>Node.js 10 ou 12 e superior</li>
 </ul>
-<h3>2 - Como instalar as dependências do projeto</h3>
-```npm install (instalar dentro da pasta do projeto)```
+<h3>2 - Como instalar os Cypress e as dependências do projeto</h3>
+<b>Rodar o comando abaixo dentro da pasta do projeto</b>
+<blockquote>npm install</blockquote>
 <h3>3 - Como executar os Testes</h3>
-```npx cypress open (Abre o console do cypress)```
-```npx cypress run (roda a aplicação em modo headless)``` 
+<b>Comando para abrir o console do cypress:</b>
+<blockquote>npx cypress open</blockquote><br/>
+<b>Rodar a aplicação em modo headless:</b>
+<blockquote>npx cypress run </blockquote>
 <h3>4 - Como visualizar os relatórios</h3>
-```npm run report:cucumber```
+<blockquote>npm run report:cucumber</blockquote>
 <h3>5 - Ferramentas e bibliotecas utilizadas</h3>
 <ul>
 <li>Chance (dados fakes)</li>
 <li>Cucumber html repórter</li>
 <li>Mochawesome</li>
 <li>Cypress Multi Reporter</li>
+</ul>
 <h3>6 - Integração continua</h3>
 <ul>
 <li>Integração continua do projeto realizada via Github Actions</li> 
