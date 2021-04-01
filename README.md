@@ -22,7 +22,9 @@
 <b>Rodar a aplicação em modo headless:</b>
 <blockquote>npx cypress run </blockquote>
 <h3>4 - Como visualizar os relatórios</h3>
+<h4>Comando para gerar relatório dos testes via Html.</h4>
 <blockquote>npm run report:cucumber</blockquote>
+<h4><i>Obs: Ao rodar a aplicação no modo Headless, é gerado um vídeo rodando todos os testes</i></h4>
 <h3>5 - Ferramentas e bibliotecas utilizadas</h3>
 <ul>
 <li>Chance (dados fakes)</li>
