@@ -5,9 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "report:merge": "mochawesome-merge > index.json",
-    "report:mocha": "marge index.json",
-    "report:clean": "rimraf mochawesome-report full_report.json cypress/reports/cucumber-json/**",
+    "report:clean": "rimraf cypress/reports/cucumber-json/**",
     "cy:open:cucumber": "npx cypress open --config-file cypress-cucumber.json",
     "cy:run:cucumber": "npx cypress run --config-file cypress-cucumber.json --spec **/All.features",
     "report:cucumber": "node cypress/reports/reporter.js"

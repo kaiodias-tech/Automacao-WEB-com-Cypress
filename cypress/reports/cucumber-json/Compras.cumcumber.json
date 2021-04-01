@@ -1,66 +1,6 @@
 [
   {
     "keyword": "Funcionalidade",
-    "name": "Cadastro",
-    "line": 3,
-    "id": "cadastro",
-    "tags": [],
-    "uri": "Cadastro.feature",
-    "elements": [
-      {
-        "id": "cadastro;cadastro-de-novo-usuário",
-        "keyword": "Scenario",
-        "line": 5,
-        "name": "Cadastro de novo usuário",
-        "tags": [],
-        "type": "scenario",
-        "steps": [
-          {
-            "arguments": [],
-            "keyword": "Dado ",
-            "line": 6,
-            "name": "que acesso o site",
-            "result": {
-              "status": "passed",
-              "duration": 2532000000
-            }
-          },
-          {
-            "arguments": [],
-            "keyword": "Quando ",
-            "line": 7,
-            "name": "informar meus dados",
-            "result": {
-              "status": "passed",
-              "duration": 10186000000
-            }
-          },
-          {
-            "arguments": [],
-            "keyword": "E ",
-            "line": 8,
-            "name": "salvar",
-            "result": {
-              "status": "passed",
-              "duration": 3144000000
-            }
-          },
-          {
-            "arguments": [],
-            "keyword": "Entao ",
-            "line": 9,
-            "name": "devo ser cadastrado com sucesso",
-            "result": {
-              "status": "passed",
-              "duration": 37000000
-            }
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "keyword": "Funcionalidade",
     "name": "Compras de produtos",
     "line": 3,
     "id": "compras-de-produtos",
@@ -82,7 +22,7 @@
             "name": "que acesso o site",
             "result": {
               "status": "passed",
-              "duration": 8844000000
+              "duration": 26108000000
             }
           },
           {
@@ -92,7 +32,7 @@
             "name": "escolho um determinado produto",
             "result": {
               "status": "passed",
-              "duration": 526000000
+              "duration": 381000000
             }
           },
           {
@@ -102,7 +42,7 @@
             "name": "verifico se o produto está no carrinho de compras",
             "result": {
               "status": "passed",
-              "duration": 5615000000
+              "duration": 5771000000
             }
           },
           {
@@ -112,7 +52,7 @@
             "name": "sou direcionado para a tela de login",
             "result": {
               "status": "passed",
-              "duration": 1096000000
+              "duration": 1130000000
             }
           },
           {
@@ -122,7 +62,7 @@
             "name": "sou autenticado",
             "result": {
               "status": "passed",
-              "duration": 2375000000
+              "duration": 3929000000
             }
           },
           {
@@ -132,7 +72,7 @@
             "name": "informo meus dados",
             "result": {
               "status": "passed",
-              "duration": 9122000000
+              "duration": 8783000000
             }
           },
           {
@@ -142,7 +82,7 @@
             "name": "finalizo a compra com sucesso",
             "result": {
               "status": "passed",
-              "duration": 3360000000
+              "duration": 4357000000
             }
           }
         ]

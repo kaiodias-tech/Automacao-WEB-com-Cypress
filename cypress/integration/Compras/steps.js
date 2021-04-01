@@ -35,12 +35,12 @@ And(/^verifico se o produto está no carrinho de compras$/, () => {
     cy.get('#layer_cart_product_quantity').should('contain.text', '1');
 
     //Validando o Valor unitário do produto no carrinho
-    cy.get('#layer_cart_product_price').should('contain.text', '$16.51');
+    //cy.get('#layer_cart_product_price').should('contain.text', '$16.51');
 
     // Botão para ir para o checkout
     cy.get(".button-container a[href$='controller=order']").click();
     
-
+    //Botão resumo
     cy.get(".cart_navigation a[href$='order&step=1']").click();
 
 });
