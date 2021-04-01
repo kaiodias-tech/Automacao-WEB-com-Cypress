@@ -22,7 +22,7 @@
             "name": "que acesso o site",
             "result": {
               "status": "passed",
-              "duration": 14731000000
+              "duration": 2532000000
             }
           },
           {
@@ -32,7 +32,7 @@
             "name": "informar meus dados",
             "result": {
               "status": "passed",
-              "duration": 18978000000
+              "duration": 10186000000
             }
           },
           {
@@ -42,7 +42,7 @@
             "name": "salvar",
             "result": {
               "status": "passed",
-              "duration": 4128000000
+              "duration": 3144000000
             }
           },
           {
@@ -52,7 +52,7 @@
             "name": "devo ser cadastrado com sucesso",
             "result": {
               "status": "passed",
-              "duration": 101000000
+              "duration": 37000000
             }
           }
         ]
@@ -82,7 +82,7 @@
             "name": "que acesso o site",
             "result": {
               "status": "passed",
-              "duration": 43353000000
+              "duration": 8844000000
             }
           },
           {
@@ -92,7 +92,7 @@
             "name": "escolho um determinado produto",
             "result": {
               "status": "passed",
-              "duration": 499000000
+              "duration": 526000000
             }
           },
           {
@@ -102,7 +102,7 @@
             "name": "verifico se o produto está no carrinho de compras",
             "result": {
               "status": "passed",
-              "duration": 7194000000
+              "duration": 5615000000
             }
           },
           {
@@ -112,7 +112,7 @@
             "name": "sou direcionado para a tela de login",
             "result": {
               "status": "passed",
-              "duration": 2121000000
+              "duration": 1096000000
             }
           },
           {
@@ -122,7 +122,7 @@
             "name": "sou autenticado",
             "result": {
               "status": "passed",
-              "duration": 3152000000
+              "duration": 2375000000
             }
           },
           {
@@ -132,7 +132,7 @@
             "name": "informo meus dados",
             "result": {
               "status": "passed",
-              "duration": 10752000000
+              "duration": 9122000000
             }
           },
           {
@@ -142,7 +142,7 @@
             "name": "finalizo a compra com sucesso",
             "result": {
               "status": "passed",
-              "duration": 4498000000
+              "duration": 3360000000
             }
           }
         ]

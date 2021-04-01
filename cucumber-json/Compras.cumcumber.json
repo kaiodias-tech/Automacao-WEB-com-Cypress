@@ -22,7 +22,7 @@
             "name": "que acesso o site",
             "result": {
               "status": "passed",
-              "duration": 26728000000
+              "duration": 26108000000
             }
           },
           {
@@ -32,7 +32,7 @@
             "name": "escolho um determinado produto",
             "result": {
               "status": "passed",
-              "duration": 259000000
+              "duration": 381000000
             }
           },
           {
@@ -42,7 +42,7 @@
             "name": "verifico se o produto está no carrinho de compras",
             "result": {
               "status": "passed",
-              "duration": 6619000000
+              "duration": 5771000000
             }
           },
           {
@@ -52,7 +52,7 @@
             "name": "sou direcionado para a tela de login",
             "result": {
               "status": "passed",
-              "duration": 1015000000
+              "duration": 1130000000
             }
           },
           {
@@ -62,7 +62,7 @@
             "name": "sou autenticado",
             "result": {
               "status": "passed",
-              "duration": 2506000000
+              "duration": 3929000000
             }
           },
           {
@@ -72,7 +72,7 @@
             "name": "informo meus dados",
             "result": {
               "status": "passed",
-              "duration": 7267000000
+              "duration": 8783000000
             }
           },
           {
@@ -82,7 +82,7 @@
             "name": "finalizo a compra com sucesso",
             "result": {
               "status": "passed",
-              "duration": 2547000000
+              "duration": 4357000000
             }
           }
         ]
